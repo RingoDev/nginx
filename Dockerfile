@@ -9,3 +9,5 @@ EXPOSE 443
 EXPOSE 8443
 # Web Push Service
 EXPOSE 444
+# SE-Project
+EXPOSE 3000
