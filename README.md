@@ -13,5 +13,6 @@ docker run \
 -p 444:444 \
 -p 8443:8443 \
 -p 3000:3000 \
+-p 3001:3001 \
 --label=com.centurylinklabs.watchtower.enable=true \
 -t ringodev/nginx-proxy
